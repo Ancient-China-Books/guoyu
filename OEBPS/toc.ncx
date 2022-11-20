@@ -1,0 +1,1599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-5518-8022-380af14d8d55"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>國語</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>卷一・周語上</text>
+      </navLabel>
+      <content src="Text/001.htm"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>祭公諫穆王征犬戎</text>
+        </navLabel>
+        <content src="Text/001.htm"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>密康公母論小醜備物終必亡</text>
+        </navLabel>
+        <content src="Text/002.htm"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>邵公諫厲王弭謗</text>
+        </navLabel>
+        <content src="Text/003.htm"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>芮良夫論榮夷公專利</text>
+        </navLabel>
+        <content src="Text/004.htm"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>邵公以其子代宣王死</text>
+        </navLabel>
+        <content src="Text/005.htm"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>虢文公諫宣王不籍千畝</text>
+        </navLabel>
+        <content src="Text/006.htm"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>仲山父諫宣王立戲</text>
+        </navLabel>
+        <content src="Text/007.htm"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>穆仲論魯侯孝</text>
+        </navLabel>
+        <content src="Text/008.htm"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>仲山父諫宣王料民</text>
+        </navLabel>
+        <content src="Text/009.htm"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>伯陽父論周將亡</text>
+        </navLabel>
+        <content src="Text/010.htm"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>鄭厲公與虢叔殺子頹納惠王</text>
+        </navLabel>
+        <content src="Text/011.htm"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>內史過論神</text>
+        </navLabel>
+        <content src="Text/012.htm"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>內史過論晉惠公必無後</text>
+        </navLabel>
+        <content src="Text/013.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>卷二・周語中</text>
+      </navLabel>
+      <content src="Text/014.htm"/>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>內史興論晉文公必霸</text>
+        </navLabel>
+        <content src="Text/014.htm"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>富辰諫襄王以狄伐鄭及以狄女為后</text>
+        </navLabel>
+        <content src="Text/015.htm"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>襄王拒晉文公請隧</text>
+        </navLabel>
+        <content src="Text/016.htm"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>陽人不服晉侯</text>
+        </navLabel>
+        <content src="Text/017.htm"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>襄王拒殺衛成公</text>
+        </navLabel>
+        <content src="Text/018.htm"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>王孫滿觀秦師</text>
+        </navLabel>
+        <content src="Text/019.htm"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>定王論不用全烝之故</text>
+        </navLabel>
+        <content src="Text/020.htm"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>單襄公論陳必亡</text>
+        </navLabel>
+        <content src="Text/021.htm"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>劉康公論魯大夫儉與侈</text>
+        </navLabel>
+        <content src="Text/022.htm"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>王孫說請勿賜叔孫僑如</text>
+        </navLabel>
+        <content src="Text/023.htm"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>單襄公論郤至佻天之功</text>
+        </navLabel>
+        <content src="Text/024.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>卷三・周語下</text>
+      </navLabel>
+      <content src="Text/025.htm"/>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>單襄公論晉將有亂</text>
+        </navLabel>
+        <content src="Text/025.htm"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>單襄公論晉周將得晉國</text>
+        </navLabel>
+        <content src="Text/026.htm"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>太子晉諫靈王壅穀水</text>
+        </navLabel>
+        <content src="Text/027.htm"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>晉羊舌肸聘周論單靖公敬儉讓咨</text>
+        </navLabel>
+        <content src="Text/028.htm"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>單穆公諫景王鑄大錢</text>
+        </navLabel>
+        <content src="Text/029.htm"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>單穆公諫景王鑄大鍾</text>
+        </navLabel>
+        <content src="Text/030.htm"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>景王問鍾律於伶州鳩</text>
+        </navLabel>
+        <content src="Text/031.htm"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>賓孟見雄雞自斷其尾</text>
+        </navLabel>
+        <content src="Text/032.htm"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>劉文公與萇弘欲城周</text>
+        </navLabel>
+        <content src="Text/033.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>卷四・魯語上</text>
+      </navLabel>
+      <content src="Text/034.htm"/>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>曹劌問戰</text>
+        </navLabel>
+        <content src="Text/034.htm"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>曹劌諫莊公如齊觀社</text>
+        </navLabel>
+        <content src="Text/035.htm"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>匠師慶諫莊公丹楹刻桷</text>
+        </navLabel>
+        <content src="Text/036.htm"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>夏父展諫宗婦覿哀姜用幣</text>
+        </navLabel>
+        <content src="Text/037.htm"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>臧文仲如齊告糴</text>
+        </navLabel>
+        <content src="Text/038.htm"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>展禽使乙喜以膏沐犒師</text>
+        </navLabel>
+        <content src="Text/039.htm"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>臧文仲說僖公請免衛成公</text>
+        </navLabel>
+        <content src="Text/040.htm"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>臧文仲請賞重館人</text>
+        </navLabel>
+        <content src="Text/041.htm"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>展禽論祭爰居非政之宜</text>
+        </navLabel>
+        <content src="Text/042.htm"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>文公欲弛孟文子與郈敬子之宅</text>
+        </navLabel>
+        <content src="Text/043.htm"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>夏父弗忌改昭穆之常</text>
+        </navLabel>
+        <content src="Text/044.htm"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>里革更書逐莒太子僕</text>
+        </navLabel>
+        <content src="Text/045.htm"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50">
+        <navLabel>
+          <text>里革斷宣公罟而棄之</text>
+        </navLabel>
+        <content src="Text/046.htm"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51">
+        <navLabel>
+          <text>子叔聲伯辭邑</text>
+        </navLabel>
+        <content src="Text/047.htm"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>里革論君之過</text>
+        </navLabel>
+        <content src="Text/048.htm"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>季文子論妾馬</text>
+        </navLabel>
+        <content src="Text/049.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>卷五・魯語下</text>
+      </navLabel>
+      <content src="Text/050.htm"/>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>叔孫穆子聘於晉</text>
+        </navLabel>
+        <content src="Text/050.htm"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>叔孫穆子諫季武子為三軍</text>
+        </navLabel>
+        <content src="Text/051.htm"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>諸侯伐秦魯人以莒人先濟</text>
+        </navLabel>
+        <content src="Text/052.htm"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>襄公如楚</text>
+        </navLabel>
+        <content src="Text/053.htm"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>季冶致祿</text>
+        </navLabel>
+        <content src="Text/054.htm"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>叔孫穆子知楚公子圍有篡國之心</text>
+        </navLabel>
+        <content src="Text/055.htm"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>叔孫穆子不以貨私免</text>
+        </navLabel>
+        <content src="Text/056.htm"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="62">
+        <navLabel>
+          <text>子服惠伯從季平子如晉</text>
+        </navLabel>
+        <content src="Text/057.htm"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>季桓子穿井獲羊</text>
+        </navLabel>
+        <content src="Text/058.htm"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>公父文伯之母對季康子問</text>
+        </navLabel>
+        <content src="Text/059.htm"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>公父文伯飲南宮敬叔酒</text>
+        </navLabel>
+        <content src="Text/060.htm"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>公父文伯之母論內朝與外朝</text>
+        </navLabel>
+        <content src="Text/061.htm"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>公父文伯之母論勞逸</text>
+        </navLabel>
+        <content src="Text/062.htm"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>公父文伯之母別於男女之禮</text>
+        </navLabel>
+        <content src="Text/063.htm"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>公父文伯之母欲室文伯</text>
+        </navLabel>
+        <content src="Text/064.htm"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>公父文伯卒其母戒其妾</text>
+        </navLabel>
+        <content src="Text/065.htm"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>孔丘謂公父文伯之母知禮</text>
+        </navLabel>
+        <content src="Text/066.htm"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>孔丘論大骨</text>
+        </navLabel>
+        <content src="Text/067.htm"/>
+      </navPoint>
+      <navPoint id="num_73" playOrder="73">
+        <navLabel>
+          <text>孔丘論楛矢</text>
+        </navLabel>
+        <content src="Text/068.htm"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>閔馬父笑子服景伯</text>
+        </navLabel>
+        <content src="Text/069.htm"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>孔丘非難季康子以田賦</text>
+        </navLabel>
+        <content src="Text/070.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>卷六・齊語</text>
+      </navLabel>
+      <content src="Text/071.htm"/>
+      <navPoint id="num_77" playOrder="77">
+        <navLabel>
+          <text>管仲對桓公以霸術</text>
+        </navLabel>
+        <content src="Text/071.htm"/>
+      </navPoint>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>管仲佐桓公為政</text>
+        </navLabel>
+        <content src="Text/072.htm"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>桓公為政既成</text>
+        </navLabel>
+        <content src="Text/073.htm"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>管仲教桓公親鄰國</text>
+        </navLabel>
+        <content src="Text/074.htm"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81">
+        <navLabel>
+          <text>管仲教桓公足甲兵</text>
+        </navLabel>
+        <content src="Text/075.htm"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>桓公帥諸侯而朝天子</text>
+        </navLabel>
+        <content src="Text/076.htm"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83">
+        <navLabel>
+          <text>葵丘之會天子致胙於桓公</text>
+        </navLabel>
+        <content src="Text/077.htm"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84">
+        <navLabel>
+          <text>桓公霸諸侯</text>
+        </navLabel>
+        <content src="Text/078.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_85" playOrder="85">
+      <navLabel>
+        <text>卷七・晉語一</text>
+      </navLabel>
+      <content src="Text/079.htm"/>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>武公伐翼止欒共子無死</text>
+        </navLabel>
+        <content src="Text/079.htm"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>史蘇論獻公伐驪戎勝而不吉</text>
+        </navLabel>
+        <content src="Text/080.htm"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>史蘇論驪姬必亂晉</text>
+        </navLabel>
+        <content src="Text/081.htm"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89">
+        <navLabel>
+          <text>獻公將黜太子申生而立奚齊</text>
+        </navLabel>
+        <content src="Text/082.htm"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90">
+        <navLabel>
+          <text>獻公伐翟柤</text>
+        </navLabel>
+        <content src="Text/083.htm"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>優施教驪姬遠太子</text>
+        </navLabel>
+        <content src="Text/084.htm"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>獻公作二軍以伐霍</text>
+        </navLabel>
+        <content src="Text/085.htm"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93">
+        <navLabel>
+          <text>優施教驪姬譖申生</text>
+        </navLabel>
+        <content src="Text/086.htm"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>申生伐東山</text>
+        </navLabel>
+        <content src="Text/087.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_95" playOrder="95">
+      <navLabel>
+        <text>卷八・晉語二</text>
+      </navLabel>
+      <content src="Text/088.htm"/>
+      <navPoint id="num_96" playOrder="96">
+        <navLabel>
+          <text>驪姬譖殺太子申生</text>
+        </navLabel>
+        <content src="Text/088.htm"/>
+      </navPoint>
+      <navPoint id="num_97" playOrder="97">
+        <navLabel>
+          <text>公子重耳夷吾出奔</text>
+        </navLabel>
+        <content src="Text/089.htm"/>
+      </navPoint>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>虢將亡舟之僑以其族適晉</text>
+        </navLabel>
+        <content src="Text/090.htm"/>
+      </navPoint>
+      <navPoint id="num_99" playOrder="99">
+        <navLabel>
+          <text>宮之奇知虞將亡</text>
+        </navLabel>
+        <content src="Text/091.htm"/>
+      </navPoint>
+      <navPoint id="num_100" playOrder="100">
+        <navLabel>
+          <text>獻公問卜偃攻虢何月</text>
+        </navLabel>
+        <content src="Text/092.htm"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="101">
+        <navLabel>
+          <text>宰周公論齊侯好示</text>
+        </navLabel>
+        <content src="Text/093.htm"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="102">
+        <navLabel>
+          <text>宰周公論晉侯將死</text>
+        </navLabel>
+        <content src="Text/094.htm"/>
+      </navPoint>
+      <navPoint id="num_103" playOrder="103">
+        <navLabel>
+          <text>里克殺奚齊而秦立惠公</text>
+        </navLabel>
+        <content src="Text/095.htm"/>
+      </navPoint>
+      <navPoint id="num_104" playOrder="104">
+        <navLabel>
+          <text>冀芮答秦穆公問</text>
+        </navLabel>
+        <content src="Text/096.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_105" playOrder="105">
+      <navLabel>
+        <text>卷九・晉語三</text>
+      </navLabel>
+      <content src="Text/097.htm"/>
+      <navPoint id="num_106" playOrder="106">
+        <navLabel>
+          <text>惠公入而背外內之賂</text>
+        </navLabel>
+        <content src="Text/097.htm"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="107">
+        <navLabel>
+          <text>惠公改葬共世子</text>
+        </navLabel>
+        <content src="Text/098.htm"/>
+      </navPoint>
+      <navPoint id="num_108" playOrder="108">
+        <navLabel>
+          <text>惠公悔殺里克</text>
+        </navLabel>
+        <content src="Text/099.htm"/>
+      </navPoint>
+      <navPoint id="num_109" playOrder="109">
+        <navLabel>
+          <text>惠公殺丕鄭</text>
+        </navLabel>
+        <content src="Text/100.htm"/>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110">
+        <navLabel>
+          <text>秦薦晉饑晉不予秦糴</text>
+        </navLabel>
+        <content src="Text/101.htm"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="111">
+        <navLabel>
+          <text>秦侵晉止惠公於秦</text>
+        </navLabel>
+        <content src="Text/102.htm"/>
+      </navPoint>
+      <navPoint id="num_112" playOrder="112">
+        <navLabel>
+          <text>呂甥逆惠公於秦</text>
+        </navLabel>
+        <content src="Text/103.htm"/>
+      </navPoint>
+      <navPoint id="num_113" playOrder="113">
+        <navLabel>
+          <text>惠公斬慶鄭</text>
+        </navLabel>
+        <content src="Text/104.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_114" playOrder="114">
+      <navLabel>
+        <text>卷十・晉語四</text>
+      </navLabel>
+      <content src="Text/105.htm"/>
+      <navPoint id="num_115" playOrder="115">
+        <navLabel>
+          <text>重耳自狄適齊</text>
+        </navLabel>
+        <content src="Text/105.htm"/>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116">
+        <navLabel>
+          <text>齊姜勸重耳勿懷安</text>
+        </navLabel>
+        <content src="Text/106.htm"/>
+      </navPoint>
+      <navPoint id="num_117" playOrder="117">
+        <navLabel>
+          <text>齊姜與子犯謀遣重耳</text>
+        </navLabel>
+        <content src="Text/107.htm"/>
+      </navPoint>
+      <navPoint id="num_118" playOrder="118">
+        <navLabel>
+          <text>衛文公不禮重耳</text>
+        </navLabel>
+        <content src="Text/108.htm"/>
+      </navPoint>
+      <navPoint id="num_119" playOrder="119">
+        <navLabel>
+          <text>曹共公不禮重耳而觀其骿脅</text>
+        </navLabel>
+        <content src="Text/109.htm"/>
+      </navPoint>
+      <navPoint id="num_120" playOrder="120">
+        <navLabel>
+          <text>宋襄公贈重耳以馬二十乘</text>
+        </navLabel>
+        <content src="Text/110.htm"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="121">
+        <navLabel>
+          <text>鄭文公不禮重耳</text>
+        </navLabel>
+        <content src="Text/111.htm"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="122">
+        <navLabel>
+          <text>楚成王以周禮享重耳</text>
+        </navLabel>
+        <content src="Text/112.htm"/>
+      </navPoint>
+      <navPoint id="num_123" playOrder="123">
+        <navLabel>
+          <text>重耳婚媾懷嬴</text>
+        </navLabel>
+        <content src="Text/113.htm"/>
+      </navPoint>
+      <navPoint id="num_124" playOrder="124">
+        <navLabel>
+          <text>秦伯享重耳以國君之禮</text>
+        </navLabel>
+        <content src="Text/114.htm"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="125">
+        <navLabel>
+          <text>重耳親筮得晉國</text>
+        </navLabel>
+        <content src="Text/115.htm"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="126">
+        <navLabel>
+          <text>秦伯納重耳於晉</text>
+        </navLabel>
+        <content src="Text/116.htm"/>
+      </navPoint>
+      <navPoint id="num_127" playOrder="127">
+        <navLabel>
+          <text>寺人勃鞮求見文公</text>
+        </navLabel>
+        <content src="Text/117.htm"/>
+      </navPoint>
+      <navPoint id="num_128" playOrder="128">
+        <navLabel>
+          <text>文公遽見豎頭須</text>
+        </navLabel>
+        <content src="Text/118.htm"/>
+      </navPoint>
+      <navPoint id="num_129" playOrder="129">
+        <navLabel>
+          <text>文公修內政納襄王</text>
+        </navLabel>
+        <content src="Text/119.htm"/>
+      </navPoint>
+      <navPoint id="num_130" playOrder="130">
+        <navLabel>
+          <text>文公出陽人</text>
+        </navLabel>
+        <content src="Text/120.htm"/>
+      </navPoint>
+      <navPoint id="num_131" playOrder="131">
+        <navLabel>
+          <text>文公伐原</text>
+        </navLabel>
+        <content src="Text/121.htm"/>
+      </navPoint>
+      <navPoint id="num_132" playOrder="132">
+        <navLabel>
+          <text>文公救宋敗楚於城濮</text>
+        </navLabel>
+        <content src="Text/122.htm"/>
+      </navPoint>
+      <navPoint id="num_133" playOrder="133">
+        <navLabel>
+          <text>鄭叔詹據鼎耳而疾號</text>
+        </navLabel>
+        <content src="Text/123.htm"/>
+      </navPoint>
+      <navPoint id="num_134" playOrder="134">
+        <navLabel>
+          <text>箕鄭對文公問</text>
+        </navLabel>
+        <content src="Text/124.htm"/>
+      </navPoint>
+      <navPoint id="num_135" playOrder="135">
+        <navLabel>
+          <text>文公任賢與趙衰舉賢</text>
+        </navLabel>
+        <content src="Text/125.htm"/>
+      </navPoint>
+      <navPoint id="num_136" playOrder="136">
+        <navLabel>
+          <text>文公學讀書於臼季</text>
+        </navLabel>
+        <content src="Text/126.htm"/>
+      </navPoint>
+      <navPoint id="num_137" playOrder="137">
+        <navLabel>
+          <text>郭偃論治國之難易</text>
+        </navLabel>
+        <content src="Text/127.htm"/>
+      </navPoint>
+      <navPoint id="num_138" playOrder="138">
+        <navLabel>
+          <text>胥臣論教誨之力</text>
+        </navLabel>
+        <content src="Text/128.htm"/>
+      </navPoint>
+      <navPoint id="num_139" playOrder="139">
+        <navLabel>
+          <text>文公稱霸</text>
+        </navLabel>
+        <content src="Text/129.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_140" playOrder="140">
+      <navLabel>
+        <text>卷十一・晉語五</text>
+      </navLabel>
+      <content src="Text/130.htm"/>
+      <navPoint id="num_141" playOrder="141">
+        <navLabel>
+          <text>臼季舉冀缺</text>
+        </navLabel>
+        <content src="Text/130.htm"/>
+      </navPoint>
+      <navPoint id="num_142" playOrder="142">
+        <navLabel>
+          <text>甯嬴氏論貌與言</text>
+        </navLabel>
+        <content src="Text/131.htm"/>
+      </navPoint>
+      <navPoint id="num_143" playOrder="143">
+        <navLabel>
+          <text>趙宣子論比與黨</text>
+        </navLabel>
+        <content src="Text/132.htm"/>
+      </navPoint>
+      <navPoint id="num_144" playOrder="144">
+        <navLabel>
+          <text>趙宣子請師伐宋</text>
+        </navLabel>
+        <content src="Text/133.htm"/>
+      </navPoint>
+      <navPoint id="num_145" playOrder="145">
+        <navLabel>
+          <text>靈公使鉏麑殺趙宣子</text>
+        </navLabel>
+        <content src="Text/134.htm"/>
+      </navPoint>
+      <navPoint id="num_146" playOrder="146">
+        <navLabel>
+          <text>范武子退朝告老</text>
+        </navLabel>
+        <content src="Text/135.htm"/>
+      </navPoint>
+      <navPoint id="num_147" playOrder="147">
+        <navLabel>
+          <text>范武子杖文子</text>
+        </navLabel>
+        <content src="Text/136.htm"/>
+      </navPoint>
+      <navPoint id="num_148" playOrder="148">
+        <navLabel>
+          <text>郤獻子分謗</text>
+        </navLabel>
+        <content src="Text/137.htm"/>
+      </navPoint>
+      <navPoint id="num_149" playOrder="149">
+        <navLabel>
+          <text>張侯御郤獻子</text>
+        </navLabel>
+        <content src="Text/138.htm"/>
+      </navPoint>
+      <navPoint id="num_150" playOrder="150">
+        <navLabel>
+          <text>師勝而范文子後入</text>
+        </navLabel>
+        <content src="Text/139.htm"/>
+      </navPoint>
+      <navPoint id="num_151" playOrder="151">
+        <navLabel>
+          <text>郤獻子等各推功於上</text>
+        </navLabel>
+        <content src="Text/140.htm"/>
+      </navPoint>
+      <navPoint id="num_152" playOrder="152">
+        <navLabel>
+          <text>苗棼皇謂郤獻子為不知禮</text>
+        </navLabel>
+        <content src="Text/141.htm"/>
+      </navPoint>
+      <navPoint id="num_153" playOrder="153">
+        <navLabel>
+          <text>車者論梁山崩</text>
+        </navLabel>
+        <content src="Text/142.htm"/>
+      </navPoint>
+      <navPoint id="num_154" playOrder="154">
+        <navLabel>
+          <text>伯宗妻謂民不戴其上難必及</text>
+        </navLabel>
+        <content src="Text/143.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_155" playOrder="155">
+      <navLabel>
+        <text>卷十二・晉語六</text>
+      </navLabel>
+      <content src="Text/144.htm"/>
+      <navPoint id="num_156" playOrder="156">
+        <navLabel>
+          <text>趙文子冠</text>
+        </navLabel>
+        <content src="Text/144.htm"/>
+      </navPoint>
+      <navPoint id="num_157" playOrder="157">
+        <navLabel>
+          <text>范文子不欲伐鄭</text>
+        </navLabel>
+        <content src="Text/145.htm"/>
+      </navPoint>
+      <navPoint id="num_158" playOrder="158">
+        <navLabel>
+          <text>晉敗楚師於鄢陵</text>
+        </navLabel>
+        <content src="Text/146.htm"/>
+      </navPoint>
+      <navPoint id="num_159" playOrder="159">
+        <navLabel>
+          <text>郤至勇而知禮</text>
+        </navLabel>
+        <content src="Text/147.htm"/>
+      </navPoint>
+      <navPoint id="num_160" playOrder="160">
+        <navLabel>
+          <text>范文子論內睦而後圖外</text>
+        </navLabel>
+        <content src="Text/148.htm"/>
+      </navPoint>
+      <navPoint id="num_161" playOrder="161">
+        <navLabel>
+          <text>范文子論外患與內憂</text>
+        </navLabel>
+        <content src="Text/149.htm"/>
+      </navPoint>
+      <navPoint id="num_162" playOrder="162">
+        <navLabel>
+          <text>范文子論勝楚必有內憂</text>
+        </navLabel>
+        <content src="Text/150.htm"/>
+      </navPoint>
+      <navPoint id="num_163" playOrder="163">
+        <navLabel>
+          <text>范文子論德為福之基</text>
+        </navLabel>
+        <content src="Text/151.htm"/>
+      </navPoint>
+      <navPoint id="num_164" playOrder="164">
+        <navLabel>
+          <text>范文子論私難必作</text>
+        </navLabel>
+        <content src="Text/152.htm"/>
+      </navPoint>
+      <navPoint id="num_165" playOrder="165">
+        <navLabel>
+          <text>欒書發郤至之罪</text>
+        </navLabel>
+        <content src="Text/153.htm"/>
+      </navPoint>
+      <navPoint id="num_166" playOrder="166">
+        <navLabel>
+          <text>長魚矯脅欒中行</text>
+        </navLabel>
+        <content src="Text/154.htm"/>
+      </navPoint>
+      <navPoint id="num_167" playOrder="167">
+        <navLabel>
+          <text>韓獻子不從欒中行召</text>
+        </navLabel>
+        <content src="Text/155.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_168" playOrder="168">
+      <navLabel>
+        <text>卷十三・晉語七</text>
+      </navLabel>
+      <content src="Text/156.htm"/>
+      <navPoint id="num_169" playOrder="169">
+        <navLabel>
+          <text>欒武子立悼公</text>
+        </navLabel>
+        <content src="Text/156.htm"/>
+      </navPoint>
+      <navPoint id="num_170" playOrder="170">
+        <navLabel>
+          <text>悼公即位</text>
+        </navLabel>
+        <content src="Text/157.htm"/>
+      </navPoint>
+      <navPoint id="num_171" playOrder="171">
+        <navLabel>
+          <text>悼公始合諸侯</text>
+        </navLabel>
+        <content src="Text/158.htm"/>
+      </navPoint>
+      <navPoint id="num_172" playOrder="172">
+        <navLabel>
+          <text>祁奚薦子午以自代</text>
+        </navLabel>
+        <content src="Text/159.htm"/>
+      </navPoint>
+      <navPoint id="num_173" playOrder="173">
+        <navLabel>
+          <text>魏絳諫悼公伐諸戎</text>
+        </navLabel>
+        <content src="Text/160.htm"/>
+      </navPoint>
+      <navPoint id="num_174" playOrder="174">
+        <navLabel>
+          <text>悼公使韓穆子掌公族大夫</text>
+        </navLabel>
+        <content src="Text/161.htm"/>
+      </navPoint>
+      <navPoint id="num_175" playOrder="175">
+        <navLabel>
+          <text>悼公使魏絳佐新軍</text>
+        </navLabel>
+        <content src="Text/162.htm"/>
+      </navPoint>
+      <navPoint id="num_176" playOrder="176">
+        <navLabel>
+          <text>悼公賜魏絳女樂歌鍾</text>
+        </navLabel>
+        <content src="Text/163.htm"/>
+      </navPoint>
+      <navPoint id="num_177" playOrder="177">
+        <navLabel>
+          <text>司馬侯薦叔向</text>
+        </navLabel>
+        <content src="Text/164.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_178" playOrder="178">
+      <navLabel>
+        <text>卷十四・晉語八</text>
+      </navLabel>
+      <content src="Text/165.htm"/>
+      <navPoint id="num_179" playOrder="179">
+        <navLabel>
+          <text>陽畢教平公滅欒氏</text>
+        </navLabel>
+        <content src="Text/165.htm"/>
+      </navPoint>
+      <navPoint id="num_180" playOrder="180">
+        <navLabel>
+          <text>辛俞從欒氏出奔</text>
+        </navLabel>
+        <content src="Text/166.htm"/>
+      </navPoint>
+      <navPoint id="num_181" playOrder="181">
+        <navLabel>
+          <text>叔向母謂羊舌氏必滅</text>
+        </navLabel>
+        <content src="Text/167.htm"/>
+      </navPoint>
+      <navPoint id="num_182" playOrder="182">
+        <navLabel>
+          <text>叔孫穆子論死而不朽</text>
+        </navLabel>
+        <content src="Text/168.htm"/>
+      </navPoint>
+      <navPoint id="num_183" playOrder="183">
+        <navLabel>
+          <text>范宣子與和大夫爭田</text>
+        </navLabel>
+        <content src="Text/169.htm"/>
+      </navPoint>
+      <navPoint id="num_184" playOrder="184">
+        <navLabel>
+          <text>訾祏死范宣子勉范獻子</text>
+        </navLabel>
+        <content src="Text/170.htm"/>
+      </navPoint>
+      <navPoint id="num_185" playOrder="185">
+        <navLabel>
+          <text>師曠論樂</text>
+        </navLabel>
+        <content src="Text/171.htm"/>
+      </navPoint>
+      <navPoint id="num_186" playOrder="186">
+        <navLabel>
+          <text>叔向諫殺豎襄</text>
+        </navLabel>
+        <content src="Text/172.htm"/>
+      </navPoint>
+      <navPoint id="num_187" playOrder="187">
+        <navLabel>
+          <text>叔向論比而不別</text>
+        </navLabel>
+        <content src="Text/173.htm"/>
+      </navPoint>
+      <navPoint id="num_188" playOrder="188">
+        <navLabel>
+          <text>叔向與子朱不心競而力爭</text>
+        </navLabel>
+        <content src="Text/174.htm"/>
+      </navPoint>
+      <navPoint id="num_189" playOrder="189">
+        <navLabel>
+          <text>叔向論忠信而本固</text>
+        </navLabel>
+        <content src="Text/175.htm"/>
+      </navPoint>
+      <navPoint id="num_190" playOrder="190">
+        <navLabel>
+          <text>叔向論務德無爭先</text>
+        </navLabel>
+        <content src="Text/176.htm"/>
+      </navPoint>
+      <navPoint id="num_191" playOrder="191">
+        <navLabel>
+          <text>趙文子請免叔孫穆子</text>
+        </navLabel>
+        <content src="Text/177.htm"/>
+      </navPoint>
+      <navPoint id="num_192" playOrder="192">
+        <navLabel>
+          <text>趙文子為室張老謂應從禮</text>
+        </navLabel>
+        <content src="Text/178.htm"/>
+      </navPoint>
+      <navPoint id="num_193" playOrder="193">
+        <navLabel>
+          <text>趙文子稱賢隨武子</text>
+        </navLabel>
+        <content src="Text/179.htm"/>
+      </navPoint>
+      <navPoint id="num_194" playOrder="194">
+        <navLabel>
+          <text>秦后子謂趙孟將死</text>
+        </navLabel>
+        <content src="Text/180.htm"/>
+      </navPoint>
+      <navPoint id="num_195" playOrder="195">
+        <navLabel>
+          <text>醫和視平公疾</text>
+        </navLabel>
+        <content src="Text/181.htm"/>
+      </navPoint>
+      <navPoint id="num_196" playOrder="196">
+        <navLabel>
+          <text>叔向均秦楚二公子之祿</text>
+        </navLabel>
+        <content src="Text/182.htm"/>
+      </navPoint>
+      <navPoint id="num_197" playOrder="197">
+        <navLabel>
+          <text>鄭子產來聘</text>
+        </navLabel>
+        <content src="Text/183.htm"/>
+      </navPoint>
+      <navPoint id="num_198" playOrder="198">
+        <navLabel>
+          <text>叔向論憂德不憂貧</text>
+        </navLabel>
+        <content src="Text/184.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_199" playOrder="199">
+      <navLabel>
+        <text>卷十五・晉語九</text>
+      </navLabel>
+      <content src="Text/185.htm"/>
+      <navPoint id="num_200" playOrder="200">
+        <navLabel>
+          <text>叔向論三姦同罪</text>
+        </navLabel>
+        <content src="Text/185.htm"/>
+      </navPoint>
+      <navPoint id="num_201" playOrder="201">
+        <navLabel>
+          <text>中行穆子帥師伐狄圍鼓</text>
+        </navLabel>
+        <content src="Text/186.htm"/>
+      </navPoint>
+      <navPoint id="num_202" playOrder="202">
+        <navLabel>
+          <text>范獻子戒人不可以不學</text>
+        </navLabel>
+        <content src="Text/187.htm"/>
+      </navPoint>
+      <navPoint id="num_203" playOrder="203">
+        <navLabel>
+          <text>董叔欲為繫援</text>
+        </navLabel>
+        <content src="Text/188.htm"/>
+      </navPoint>
+      <navPoint id="num_204" playOrder="204">
+        <navLabel>
+          <text>趙簡子欲有鬥臣</text>
+        </navLabel>
+        <content src="Text/189.htm"/>
+      </navPoint>
+      <navPoint id="num_205" playOrder="205">
+        <navLabel>
+          <text>閻沒叔寬諫魏獻子無受賄</text>
+        </navLabel>
+        <content src="Text/190.htm"/>
+      </navPoint>
+      <navPoint id="num_206" playOrder="206">
+        <navLabel>
+          <text>董安于辭趙簡子賞</text>
+        </navLabel>
+        <content src="Text/191.htm"/>
+      </navPoint>
+      <navPoint id="num_207" playOrder="207">
+        <navLabel>
+          <text>趙簡子以晉陽為保鄣</text>
+        </navLabel>
+        <content src="Text/192.htm"/>
+      </navPoint>
+      <navPoint id="num_208" playOrder="208">
+        <navLabel>
+          <text>郵無正諫趙簡子無殺尹鐸</text>
+        </navLabel>
+        <content src="Text/193.htm"/>
+      </navPoint>
+      <navPoint id="num_209" playOrder="209">
+        <navLabel>
+          <text>鐵之戰趙簡子等三人誇功</text>
+        </navLabel>
+        <content src="Text/194.htm"/>
+      </navPoint>
+      <navPoint id="num_210" playOrder="210">
+        <navLabel>
+          <text>衛莊公禱</text>
+        </navLabel>
+        <content src="Text/195.htm"/>
+      </navPoint>
+      <navPoint id="num_211" playOrder="211">
+        <navLabel>
+          <text>史黯諫趙簡子田于螻</text>
+        </navLabel>
+        <content src="Text/196.htm"/>
+      </navPoint>
+      <navPoint id="num_212" playOrder="212">
+        <navLabel>
+          <text>少室周知賢而讓</text>
+        </navLabel>
+        <content src="Text/197.htm"/>
+      </navPoint>
+      <navPoint id="num_213" playOrder="213">
+        <navLabel>
+          <text>史黯論良臣</text>
+        </navLabel>
+        <content src="Text/198.htm"/>
+      </navPoint>
+      <navPoint id="num_214" playOrder="214">
+        <navLabel>
+          <text>趙簡子問賢於壯馳茲</text>
+        </navLabel>
+        <content src="Text/199.htm"/>
+      </navPoint>
+      <navPoint id="num_215" playOrder="215">
+        <navLabel>
+          <text>竇犫謂君子哀無人</text>
+        </navLabel>
+        <content src="Text/200.htm"/>
+      </navPoint>
+      <navPoint id="num_216" playOrder="216">
+        <navLabel>
+          <text>趙襄子使新稚穆子伐狄</text>
+        </navLabel>
+        <content src="Text/201.htm"/>
+      </navPoint>
+      <navPoint id="num_217" playOrder="217">
+        <navLabel>
+          <text>智果論智瑤必滅宗</text>
+        </navLabel>
+        <content src="Text/202.htm"/>
+      </navPoint>
+      <navPoint id="num_218" playOrder="218">
+        <navLabel>
+          <text>士茁謂土木勝懼其不安人</text>
+        </navLabel>
+        <content src="Text/203.htm"/>
+      </navPoint>
+      <navPoint id="num_219" playOrder="219">
+        <navLabel>
+          <text>智伯國諫智襄子</text>
+        </navLabel>
+        <content src="Text/204.htm"/>
+      </navPoint>
+      <navPoint id="num_220" playOrder="220">
+        <navLabel>
+          <text>晉陽之圍</text>
+        </navLabel>
+        <content src="Text/205.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_221" playOrder="221">
+      <navLabel>
+        <text>卷十六・鄭語</text>
+      </navLabel>
+      <content src="Text/206.htm"/>
+      <navPoint id="num_222" playOrder="222">
+        <navLabel>
+          <text>史伯為桓公論興衰</text>
+        </navLabel>
+        <content src="Text/206.htm"/>
+      </navPoint>
+      <navPoint id="num_223" playOrder="223">
+        <navLabel>
+          <text>平王之末秦晉齊楚代興</text>
+        </navLabel>
+        <content src="Text/207.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_224" playOrder="224">
+      <navLabel>
+        <text>卷十七・楚語上</text>
+      </navLabel>
+      <content src="Text/208.htm"/>
+      <navPoint id="num_225" playOrder="225">
+        <navLabel>
+          <text>申叔時論傅太子之道</text>
+        </navLabel>
+        <content src="Text/208.htm"/>
+      </navPoint>
+      <navPoint id="num_226" playOrder="226">
+        <navLabel>
+          <text>子囊議恭王之謚</text>
+        </navLabel>
+        <content src="Text/209.htm"/>
+      </navPoint>
+      <navPoint id="num_227" playOrder="227">
+        <navLabel>
+          <text>屈建祭父不薦芰</text>
+        </navLabel>
+        <content src="Text/210.htm"/>
+      </navPoint>
+      <navPoint id="num_228" playOrder="228">
+        <navLabel>
+          <text>蔡聲子論楚材晉用</text>
+        </navLabel>
+        <content src="Text/211.htm"/>
+      </navPoint>
+      <navPoint id="num_229" playOrder="229">
+        <navLabel>
+          <text>伍舉論臺美而楚殆</text>
+        </navLabel>
+        <content src="Text/212.htm"/>
+      </navPoint>
+      <navPoint id="num_230" playOrder="230">
+        <navLabel>
+          <text>范無宇論國為大城未有利者</text>
+        </navLabel>
+        <content src="Text/213.htm"/>
+      </navPoint>
+      <navPoint id="num_231" playOrder="231">
+        <navLabel>
+          <text>左史倚相儆申公子亹</text>
+        </navLabel>
+        <content src="Text/214.htm"/>
+      </navPoint>
+      <navPoint id="num_232" playOrder="232">
+        <navLabel>
+          <text>白公子張諷靈王宜納諫</text>
+        </navLabel>
+        <content src="Text/215.htm"/>
+      </navPoint>
+      <navPoint id="num_233" playOrder="233">
+        <navLabel>
+          <text>左史倚相儆司馬子期唯道是從</text>
+        </navLabel>
+        <content src="Text/216.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_234" playOrder="234">
+      <navLabel>
+        <text>卷十八・楚語下</text>
+      </navLabel>
+      <content src="Text/217.htm"/>
+      <navPoint id="num_235" playOrder="235">
+        <navLabel>
+          <text>觀射父論絕地天通</text>
+        </navLabel>
+        <content src="Text/217.htm"/>
+      </navPoint>
+      <navPoint id="num_236" playOrder="236">
+        <navLabel>
+          <text>觀射父論祀牲</text>
+        </navLabel>
+        <content src="Text/218.htm"/>
+      </navPoint>
+      <navPoint id="num_237" playOrder="237">
+        <navLabel>
+          <text>子常問蓄貨聚馬鬬且論其必亡</text>
+        </navLabel>
+        <content src="Text/219.htm"/>
+      </navPoint>
+      <navPoint id="num_238" playOrder="238">
+        <navLabel>
+          <text>藍尹亹避昭王而不載</text>
+        </navLabel>
+        <content src="Text/220.htm"/>
+      </navPoint>
+      <navPoint id="num_239" playOrder="239">
+        <navLabel>
+          <text>鄖公辛與弟懷或禮於君或禮於父</text>
+        </navLabel>
+        <content src="Text/221.htm"/>
+      </navPoint>
+      <navPoint id="num_240" playOrder="240">
+        <navLabel>
+          <text>藍尹亹論吳將斃</text>
+        </navLabel>
+        <content src="Text/222.htm"/>
+      </navPoint>
+      <navPoint id="num_241" playOrder="241">
+        <navLabel>
+          <text>王孫圉論國之寶</text>
+        </navLabel>
+        <content src="Text/223.htm"/>
+      </navPoint>
+      <navPoint id="num_242" playOrder="242">
+        <navLabel>
+          <text>魯陽文子辭惠王所與梁</text>
+        </navLabel>
+        <content src="Text/224.htm"/>
+      </navPoint>
+      <navPoint id="num_243" playOrder="243">
+        <navLabel>
+          <text>葉公子高論白公勝必亂楚國</text>
+        </navLabel>
+        <content src="Text/225.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_244" playOrder="244">
+      <navLabel>
+        <text>卷十九・吳語</text>
+      </navLabel>
+      <content src="Text/226.htm"/>
+      <navPoint id="num_245" playOrder="245">
+        <navLabel>
+          <text>趙王句踐命諸稽郢行成於吳</text>
+        </navLabel>
+        <content src="Text/226.htm"/>
+      </navPoint>
+      <navPoint id="num_246" playOrder="246">
+        <navLabel>
+          <text>吳王夫差與越荒成不盟</text>
+        </navLabel>
+        <content src="Text/227.htm"/>
+      </navPoint>
+      <navPoint id="num_247" playOrder="247">
+        <navLabel>
+          <text>夫差伐齊不聽申胥之諫</text>
+        </navLabel>
+        <content src="Text/228.htm"/>
+      </navPoint>
+      <navPoint id="num_248" playOrder="248">
+        <navLabel>
+          <text>夫差勝於艾陵使奚斯釋言於齊</text>
+        </navLabel>
+        <content src="Text/229.htm"/>
+      </navPoint>
+      <navPoint id="num_249" playOrder="249">
+        <navLabel>
+          <text>申胥自殺</text>
+        </navLabel>
+        <content src="Text/230.htm"/>
+      </navPoint>
+      <navPoint id="num_250" playOrder="250">
+        <navLabel>
+          <text>吳晉爭長未成句踐襲吳</text>
+        </navLabel>
+        <content src="Text/231.htm"/>
+      </navPoint>
+      <navPoint id="num_251" playOrder="251">
+        <navLabel>
+          <text>吳欲與晉戰得為盟主</text>
+        </navLabel>
+        <content src="Text/232.htm"/>
+      </navPoint>
+      <navPoint id="num_252" playOrder="252">
+        <navLabel>
+          <text>夫差退于黃池使王孫苟告于周</text>
+        </navLabel>
+        <content src="Text/233.htm"/>
+      </navPoint>
+      <navPoint id="num_253" playOrder="253">
+        <navLabel>
+          <text>句踐滅吳夫差自殺</text>
+        </navLabel>
+        <content src="Text/234.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_254" playOrder="254">
+      <navLabel>
+        <text>卷二十・越語上</text>
+      </navLabel>
+      <content src="Text/235.htm"/>
+      <navPoint id="num_255" playOrder="255">
+        <navLabel>
+          <text>句踐滅吳</text>
+        </navLabel>
+        <content src="Text/235.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_256" playOrder="256">
+      <navLabel>
+        <text>卷二十一・越語下</text>
+      </navLabel>
+      <content src="Text/236.htm"/>
+      <navPoint id="num_257" playOrder="257">
+        <navLabel>
+          <text>范蠡進諫句踐持盈定傾節事</text>
+        </navLabel>
+        <content src="Text/236.htm"/>
+      </navPoint>
+      <navPoint id="num_258" playOrder="258">
+        <navLabel>
+          <text>范蠡勸句踐無蚤圖吳</text>
+        </navLabel>
+        <content src="Text/237.htm"/>
+      </navPoint>
+      <navPoint id="num_259" playOrder="259">
+        <navLabel>
+          <text>范蠡謂人事至而天應未至</text>
+        </navLabel>
+        <content src="Text/238.htm"/>
+      </navPoint>
+      <navPoint id="num_260" playOrder="260">
+        <navLabel>
+          <text>范蠡謂先為之征其事不成</text>
+        </navLabel>
+        <content src="Text/239.htm"/>
+      </navPoint>
+      <navPoint id="num_261" playOrder="261">
+        <navLabel>
+          <text>范蠡謂人事與天地相參乃可以成功</text>
+        </navLabel>
+        <content src="Text/240.htm"/>
+      </navPoint>
+      <navPoint id="num_262" playOrder="262">
+        <navLabel>
+          <text>越興師伐吳而弗與戰</text>
+        </navLabel>
+        <content src="Text/241.htm"/>
+      </navPoint>
+      <navPoint id="num_263" playOrder="263">
+        <navLabel>
+          <text>范蠡諫句踐勿許吳成卒滅吳</text>
+        </navLabel>
+        <content src="Text/242.htm"/>
+      </navPoint>
+      <navPoint id="num_264" playOrder="264">
+        <navLabel>
+          <text>范蠡乘輕舟以浮於五湖</text>
+        </navLabel>
+        <content src="Text/243.htm"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
